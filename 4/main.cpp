@@ -31,7 +31,7 @@ struct passport {
 };
 
 int main(int argc, const char** argv) {
-  cout << "Advent of Code Puzzle # 3" << endl;
+  cout << "Advent of Code Puzzle # 4" << endl;
   cout << "----------" << endl;
 
   if (argc < 2) {

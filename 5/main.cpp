@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(int argc, const char** argv) {
-  cout << "Advent of Code Puzzle # 3" << endl;
+  cout << "Advent of Code Puzzle # 5" << endl;
   cout << "----------" << endl;
 
   if (argc < 2) {
